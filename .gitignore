@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# FAISS generated files
+vector_store/faiss_index.bin
+vector_store/metadata.pkl
+
+# Logs
+logs/
+*.log
+
+# User uploaded documents
+documents/uploads/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
