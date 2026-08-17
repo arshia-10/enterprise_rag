@@ -6,6 +6,7 @@ __pycache__/
 venv/
 .venv/
 env/
+ENV/
 
 # Environment variables / secrets
 .env
@@ -22,6 +23,7 @@ logs/
 
 # User uploaded documents
 documents/uploads/
+documents/hr_confidential.pdf
 
 # Jupyter
 .ipynb_checkpoints/
@@ -36,3 +38,10 @@ documents/uploads/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/

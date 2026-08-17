@@ -1,0 +1,41 @@
+{
+    "employee_handbook.pdf": {
+        "classification": "internal",
+        "allowed_roles": [
+            "employee",
+            "manager",
+            "admin"
+        ]
+    },
+    "it_security_policy.pdf": {
+        "classification": "internal",
+        "allowed_roles": [
+            "employee",
+            "manager",
+            "admin"
+        ]
+    },
+    "enterprise_remote_work_policy.pdf": {
+        "classification": "internal",
+        "allowed_roles": [
+            "employee",
+            "manager",
+            "admin"
+        ]
+    },
+    "enterprise_information_security_training.pdf": {
+        "classification": "internal",
+        "allowed_roles": [
+            "employee",
+            "manager",
+            "admin"
+        ]
+    },
+    "hr_confidential.pdf": {
+        "classification": "restricted",
+        "allowed_roles": [
+            "hr",
+            "admin"
+        ]
+    }
+}

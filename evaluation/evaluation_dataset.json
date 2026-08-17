@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What are the access control rules?",
+        "expected_source": "it_security_policy.pdf",
+        "expected_answer": "Access to enterprise systems is granted according to job responsibilities. Employees must not use another person's account or attempt to bypass access controls. Access should be removed or modified when an employee changes roles or leaves the organization."
+    },
+    {
+        "question": "How many days per week can eligible employees work remotely?",
+        "expected_source": "enterprise_remote_work_policy.pdf",
+        "expected_answer": "Eligible employees may work remotely up to three days per week."
+    },
+    {
+        "question": "What are the password requirements?",
+        "expected_source": "enterprise_information_security_training.pdf",
+        "expected_answer": "Employees must follow the company's password requirements, including using strong passwords and protecting their credentials."
+    },
+    {
+        "question": "What is the company's leave policy?",
+        "expected_source": "employee_handbook.pdf",
+        "expected_answer": "Full-time employees receive 24 days of paid leave per calendar year. Leave requests should normally be submitted at least three working days before the planned absence. For emergencies or unexpected illness, employees should notify their manager as soon as reasonably possible."
+    },
+    {
+        "question": "What are the requirements for multi-factor authentication?",
+        "expected_source": "enterprise_information_security_training.pdf",
+        "expected_answer": "Employees must use multi-factor authentication when required for accessing protected enterprise systems and services."
+    },
+    {
+        "question": "What should employees do if they receive a suspicious email?",
+        "expected_source": "enterprise_information_security_training.pdf",
+        "expected_answer": "Employees should report suspicious emails through the approved security reporting process and should not click suspicious links or open unexpected attachments."
+    },
+    {
+        "question": "What are the rules for confidential company information?",
+        "expected_source": "enterprise_remote_work_policy.pdf",
+        "expected_answer": "Company confidential information must not be stored on personal devices or shared through unauthorized applications. Printed confidential documents must be securely destroyed after use."
+    },
+    {
+        "question": "What are the standard working hours?",
+        "expected_source": "employee_handbook.pdf",
+        "expected_answer": "Standard working hours are 9:00 AM to 6:00 PM, Monday through Friday, including a one-hour lunch break."
+    },
+    {
+        "question": "What is the company's maternity leave policy?",
+        "expected_source": null,
+        "expected_answer": null
+    }
+]

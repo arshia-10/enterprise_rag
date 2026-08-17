@@ -5,8 +5,6 @@ from preprocessing.chunkers.text_chunker import create_chunks
 
 # Local embedding model
 MODEL_NAME = "all-MiniLM-L6-v2"
-
-
 def load_embedding_model():
     """
     Load the Sentence Transformer embedding model.
